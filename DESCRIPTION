@@ -1,0 +1,15 @@
+Package: AllelicMR
+Type: Package
+Title: Allele specific Mendelian randomization
+Version: 0.1.0
+Author: Xuran Wang
+Maintainer: Xuran Wang <xuranw@sas.upenn.edu>
+Description: More about what it does (maybe more than one line)
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.3.2), MASS (>= 7.3-49)
+Imports: 
+        alabama,
+        numDeriv
+RoxygenNote: 6.0.1
